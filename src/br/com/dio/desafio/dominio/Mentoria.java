@@ -24,6 +24,6 @@ public class Mentoria extends Conteudo {
         return "Mentoria - " +
                 "Titulo: " + getTitulo() + " - " +
                 "Descricao: " + getDescricao() + " - " +
-                "Data: " + data + " ";
+                "Data: " + data + " \n";
     }
 }
